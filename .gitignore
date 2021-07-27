@@ -1,23 +1,34 @@
-#code coverage
-/code_coverage
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
 
 # composer vendor dir
 /vendor
 /composer.lock
 
-#node_modules
-/node_modules
+# composer itself is not needed
+composer.phar
 
-# phpstorm project files
-.idea
+# Mac DS_Store Files
+.DS_Store
 
 # phpunit
 phpunit.phar
 /phpunit.xml
 .phpunit.result.cache
 
-#yii3 config packages
-/config/packages
+#code_coverage
+/code_coverage
 
-# windows thumbnail cache
-Thumbs.db
+#node_modules
+/node_modules
