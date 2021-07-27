@@ -7,8 +7,8 @@
 </p>
 
 [![Total Downloads](https://poser.pugx.org/yii-extension/alert-flash-bulma/downloads)](//packagist.org/packages/yii-extension/alert-flash-bulma)
-[![build](https://github.com/yii-extension/alert-flash-bulma/workflows/build/badge.svg?branch=main)](https://github.com/yii-extension/alert-flash-bulma/actions)
-[![codecov](https://codecov.io/gh/yii-extension/alert-flash-bulma/branch/main/graph/badge.svg?token=KB6T5KMGED)](https://codecov.io/gh/yii-extension/alert-flash-bulma)
+[![build](https://github.com/yii-extension/alert-flash-bulma/actions/workflows/build.yml/badge.svg)](https://github.com/yii-extension/alert-flash-bulma/actions/workflows/build.yml)
+[![codecov](https://codecov.io/gh/yii-extension/alert-flash-bulma/branch/master/graph/badge.svg?token=KB6T5KMGED)](https://codecov.io/gh/yii-extension/alert-flash-bulma)
 [![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2Fyii-extension%2Falert-flash-bulma%2Fmain)](https://dashboard.stryker-mutator.io/reports/github.com/yii-extension/alert-flash-bulma/main)
 [![static analysis](https://github.com/yii-extension/alert-flash-bulma/workflows/static%20analysis/badge.svg)](https://github.com/yii-extension/alert-flash-bulma/actions?query=workflow%3A%22static+analysis%22)
 [![type-coverage](https://shepherd.dev/github/yii-extension/alert-flash-bulma/coverage.svg)](https://shepherd.dev/github/yii-extension/alert-flash-bulma)
